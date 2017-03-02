@@ -1,0 +1,44 @@
+Report:
+  The final report is found in "Projected Pharmacist Employment Report.pdf"
+
+
+
+
+Code:
+  The web scraper is found in "Web Scraper for PharmCAS.R"
+   
+  The program that generated the report is found in "Pharmacist Job Projection.sas"
+
+
+Data:
+ The list of pharmacy schools in the US was obtained from 
+
+     https://en.wikipedia.org/wiki/List_of_pharmacy_schools_in_the_United_States
+
+     and is contained in "Pharmacy Schools by State.csv"
+
+
+
+
+
+  The expected employment nationally and by state was found on 
+   
+     http://projectionscentral.com/Projections/LongTerm
+
+     and is contained in "Pharmacist Job Outlook.csv"
+
+
+
+
+
+
+  Because there was no easily-accessed table of pharmacy school class size, I wrote a web scraper to extract attendance data from
+  
+       http://www.pharmcas.org/school-directory/#/pharmd/general-information. 
+
+      I manually filled in any gaps with additional data found on 
+
+       http://pharmacy-schools.startclass.com/
+
+
+
