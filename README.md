@@ -6,21 +6,21 @@ I then projected the national and state-by-state job market out until 2024.
 
 This repository includes the following tables stored as CSV:
 
-List of pharmacy schools in the United States, from Wikipedia
-List of projected employement of pharmacists by state, from the Bureau of Labor Statistics
-    and State Employment Security Agency via projectionscentral.com
-List of attendance of each currently open or to-be-opened in the near future pharmacy school, from the Pharmacy Centralized                   Application Service website
+List of pharmacy schools in the United States, from Wikipedia  
+List of projected employement of pharmacists by state, from the Bureau of Labor Statistics  
+    and State Employment Security Agency via projectionscentral.com  
+List of attendance of each currently open or to-be-opened in the near future pharmacy school, from the Pharmacy Centralized                     Application Service website  
 
 
-This repository includes the following scripts:
+This repository includes the following scripts:  
 
-Webscraper for PharmCAS.R
-    There was no easy table of pharmacy schools by attendance, so I wrote this to scrape PharmCAS
-Pharmacist Job Projection.SAS
-    Used to calculate numbers and to generate the final report
+Webscraper for PharmCAS.R  
+    There was no easy table of pharmacy schools by attendance, so I wrote this to scrape PharmCAS  
+Pharmacist Job Projection.SAS  
+    Used to calculate numbers and to generate the final report  
     
     
-This repository includes the following additional files:
+This repository includes the following additional files:  
 
-Projected Pharmacist Employment Report.pdf
-    The final report, which I presented to my aunt. 
+Projected Pharmacist Employment Report.pdf  
+    The final report, which I presented to my aunt.   
